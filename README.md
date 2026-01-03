@@ -71,6 +71,7 @@ Click the Play ▶️ button in Unity
 
 📂 Project Structure
 Copy code
+```
 RollQuest/
 │
 ├── Assets/
@@ -81,10 +82,9 @@ RollQuest/
 │
 ├── Packages/
 └── ProjectSettings/
-📸 Screenshots
-Add gameplay screenshots here
+```
 
-🧠 What I Learned
+# 🧠 What I Learned
 Understanding Unity’s coordinate system
 
 Working with Rigidbody and Colliders
@@ -93,7 +93,7 @@ Handling player input in C#
 
 Designing a simple but interactive game environment
 
-🌱 Future Improvements
+# 🌱 Future Improvements
 Add score tracking system
 
 Introduce multiple levels
@@ -104,7 +104,7 @@ Mobile touch controls
 
 UI menu screens
 
-🙌 Acknowledgements
+# 🙌 Acknowledgements
 Unity Documentation
 
 Beginner Unity tutorials
