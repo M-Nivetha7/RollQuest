@@ -116,6 +116,6 @@ Beginner Unity tutorials
 
 Game dev community support
 
-👩‍💻 Author
+# 👩‍💻 Author
 M. Nivetha
 AI & ML Undergraduate | Unity Beginner | Game Dev Explorer
