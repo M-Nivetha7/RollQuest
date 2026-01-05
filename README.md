@@ -70,7 +70,7 @@ Open the main scene from the Assets folder
 Click the Play ▶️ button in Unity
 
 📂 Project Structure
-Copy code
+
 ```
 RollQuest/
 │
